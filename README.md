@@ -48,3 +48,22 @@ American Express sought a data-driven mechanism to **personalize marketing offer
 ## 🧠 Learnings
 - Bridging **machine learning insights** with **business decision frameworks** for real-world personalization engines.  
 - Translating analytical output into clear **product roadmaps and KPI-based success metrics**.
+
+
+---
+
+## 🔗 Links
+- **Presentation Deck:** [Link to presentation PDF](Round_3/Project_Catalyst_Pitch.pdf)  
+- **LinkedIn Post / Write-up:** [linkedin.com/in/kundanbansal1](https://linkedin.com/in/kundanbansal1)
+
+---
+
+## 👤 Author
+**Kundan Bansal**  
+B.Tech Mechanical Engineering | Netaji Subhas University of Technology (NSUT)  
+📧 kundan.bansal.ug23@nsut.ac.in | [LinkedIn](https://linkedin.com/in/kundanbansal1)
+
+---
+
+⭐ *If you found this project insightful, feel free to star or fork the repository.*
+
