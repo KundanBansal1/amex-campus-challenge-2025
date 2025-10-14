@@ -12,17 +12,17 @@ American Express sought a data-driven mechanism to **personalize marketing offer
 
 ## ⚙️ Approach
 
-### 🔹 1. Data Understanding & EDA
+### 🔹 1. Round 2 (Part-1): Data Understanding & EDA
 - Explored a clickstream dataset of 50+ variables (customer interest, spending behavior, and offer attributes).  
 - Conducted **EDA and hypothesis testing** to identify key behavioral drivers influencing offer action.  
 - Engineered 20+ new features representing customer affinity, frequency, and reward sensitivity.
 
-### 🔹 2. Machine Learning Modeling
+### 🔹 2. Round 2 (Part-2): Machine Learning Modeling
 - Built **classification and regression pipelines** using Python (Pandas, NumPy, Scikit-learn).  
 - Applied models to predict **offer conversion probability** and evaluate campaign effectiveness.  
 - Performed **feature importance analysis** to identify data signals influencing engagement.
 
-### 🔹 3. Product Strategy & GTM
+### 🔹 3. Round 3: Product Strategy & GTM
 - Designed a **Go-To-Live strategy** for a personalization engine — covering:
   - Product architecture and backend data flow  
   - Agile team structure and delivery roadmap  
