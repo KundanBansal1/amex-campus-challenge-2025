@@ -14,13 +14,9 @@ American Express sought a data-driven mechanism to **personalize marketing offer
 
 ### 🔹 1. Round 2 (Part-1): Data Understanding & EDA
 - Explored a clickstream dataset of 50+ variables (customer interest, spending behavior, and offer attributes).  
-- Conducted **EDA and hypothesis testing** to identify key behavioral drivers influencing offer action.  
+- Conducted **EDA and hypothesis testing** using Python (Pandas and Numpy) to identify key behavioral drivers influencing offer action.  
 - Engineered 20+ new features representing customer affinity, frequency, and reward sensitivity.
 
-### 🔹 2. Round 2 (Part-2): Machine Learning Modeling
-- Built **classification and regression pipelines** using Python (Pandas, NumPy, Scikit-learn).  
-- Applied models to predict **offer conversion probability** and evaluate campaign effectiveness.  
-- Performed **feature importance analysis** to identify data signals influencing engagement.
 
 ### 🔹 3. Round 3: Product Strategy & GTM
 - Designed a **Go-To-Live strategy** for a personalization engine — covering:
@@ -32,7 +28,7 @@ American Express sought a data-driven mechanism to **personalize marketing offer
 ---
 
 ## 📊 Tools & Technologies
-- **Languages & Libraries:** Python, Pandas, NumPy, Scikit-learn
+- **Languages & Libraries:** Python, Pandas, NumPy
 - **Business Tools:** PowerPoint, Canva  
 - **Frameworks:** Product Strategy, Agile Sprints, A/B Testing Principles  
 
@@ -40,13 +36,13 @@ American Express sought a data-driven mechanism to **personalize marketing offer
 
 ## 🧩 Key Results & Impact
 - Improved simulated **offer targeting accuracy by ~18%** through predictive modeling.  
-- Delivered an integrated **ML + Product** solution to AmEx leadership.  
+- Delivered an integrated **Data Analytics + ML + Product** solution to AmEx leadership.  
 - Recognized among **top national finalists (Product Track)** for strategic and analytical innovation.
 
 ---
 
 ## 🧠 Learnings
-- Bridging **machine learning insights** with **business decision frameworks** for real-world personalization engines.  
+- Bridging **data insights** with **business decision frameworks** for real-world personalization engines.  
 - Translating analytical output into clear **product roadmaps and KPI-based success metrics**.
 
 
