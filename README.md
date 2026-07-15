@@ -50,8 +50,8 @@ American Express sought a data-driven mechanism to **personalize marketing offer
 
 ## 🔗 Links
 - **Raw Dataset Shared by AmEx:** [Link to Parquet Dataset](https://drive.google.com/file/d/1PsN5CAOYWdonon0dm5OTuQilqIAQlA8O)
-- **Presentation Deck:** [Link to presentation PDF](R3/Project Catalyst.pdf)
-- **LinkedIn Post / Write-up:** [linkedin.com/in/kundanbansal1](https://linkedin.com/in/kundanbansal1)
+- **Presentation Deck:** [Link to GTM presentation PDF](https://drive.google.com/file/d/1AGHqlna-qT0hH3VDrO6hSqNMD17J2HFg/view?usp=sharing))
+- **LinkedIn** [linkedin.com/in/kundanbansal1](https://linkedin.com/in/kundanbansal1)
 
 ---
 
